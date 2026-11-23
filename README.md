@@ -32,3 +32,13 @@ Le guide s’appuie principalement sur la documentation officielle de [Wireshark
 ## Licence
 
 Sauf indication contraire, ce dépôt est fourni à des fins pédagogiques. Vérifiez les droits applicables aux éventuelles captures, exemples ou ressources que vous ajoutez au dépôt.
+
+## Voir aussi
+
+- **[everything-for-hacking](https://kadohack12.github.io/everything-for-hacking/)** — writeups CTF
+  et cours de cybersécurité en français. Le module
+  [Réseau : les bases](https://kadohack12.github.io/everything-for-hacking/cours/01-Reseau-Bases/)
+  reprend ce guide en 11 chapitres avec des captures réelles (ARP, DHCP, DNS, TCP, TLS) et des
+  exercices d'analyse de trames.
+- **[binscope](https://github.com/kadohack12/binscope)** — triage de binaires ELF et PE en une
+  commande, pour la suite du parcours (analyse de fichiers suspects).
